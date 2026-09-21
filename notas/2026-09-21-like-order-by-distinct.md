@@ -38,10 +38,3 @@ Desafios 037 a 065. Missão 2 concluída, Missão 3 até o 065.
 | 050 | Intervalo começando em `'2025-01-01'` | Trouxe o ano inteiro (80 linhas em vez de 21). Segundo semestre começa em julho. |
 | 059 | `TOP 1` num pedido de ordenação | "Maior estoque primeiro" é ordenar todos, não trazer só o primeiro. |
 | 051 | Coluna a mais no SELECT | O enunciado pedia três colunas. Coluna sobrando é ruído para quem lê o relatório. |
-
-## Padrão dos meus erros até aqui
-
-Três dos quatro erros de hoje são do mesmo tipo dos anteriores: a consulta **roda sem erro** e entrega o resultado errado.
-Datas apareceram duas vezes (034 no fim do intervalo, 050 no começo).
-
-Antes de dar um `BETWEEN` de datas por pronto, respondo duas perguntas: qual é o primeiro dia e qual é o último dia?
