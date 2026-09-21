@@ -29,12 +29,3 @@ Desafios 037 a 065. Missão 2 concluída, Missão 3 até o 065.
 - Elimina repetições e mostra cada valor uma vez só.
 
 **Ordem das cláusulas:** `SELECT` → `FROM` → `WHERE` → `ORDER BY`.
-
-## Onde travei e o que resolveu
-
-| Desafio | Erro | Lição |
-|---|---|---|
-| 037 | `LIKE '&Coca%'` em vez de `'%Coca%'` | O curinga é o `%`. O `&` virou texto procurado, e a consulta voltou vazia sem erro nenhum. |
-| 050 | Intervalo começando em `'2025-01-01'` | Trouxe o ano inteiro (80 linhas em vez de 21). Segundo semestre começa em julho. |
-| 059 | `TOP 1` num pedido de ordenação | "Maior estoque primeiro" é ordenar todos, não trazer só o primeiro. |
-| 051 | Coluna a mais no SELECT | O enunciado pedia três colunas. Coluna sobrando é ruído para quem lê o relatório. |
