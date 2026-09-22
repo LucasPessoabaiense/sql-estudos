@@ -10,8 +10,8 @@ Banco usado: **SQL Server** (SSMS 22), base `Supermercado3`. O curso também tem
 |---|---|---|---|
 | 1 | SELECT e alias | 001 a 025 | ✅ Concluída |
 | 2 | WHERE, LIKE, BETWEEN, IN, AND, OR | 026 a 055 | ✅ Concluída |
-| 3 | ORDER BY, TOP e DISTINCT | 056 a 075 | 🔄 065 de 075 |
-| 4 | Funções de agregação | | ⏳ |
+| 3 | ORDER BY, TOP e DISTINCT | 056 a 085 | ✅ Concluída |
+| 4 | SUM, COUNT, AVG, MIN e MAX | 086 a ... | 🔄 em andamento |
 | 5 | GROUP BY e HAVING | | ⏳ |
 | 6 | JOINs | | ⏳ |
 | 7 | Subqueries, UNION e CTE | | ⏳ |
